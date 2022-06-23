@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dekanthas
 - In my country, "Dekanthas" is a shout of joy. When we are happy, we shout "Dekanthas"!
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Go language (and anything else) from scratch.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on anything that helps me learn how to code.
-- 📫 How to reach me: www.linktr.ee/lucasdasilvamaria.
